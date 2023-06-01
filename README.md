@@ -64,4 +64,5 @@
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 <hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithritikcoder&label=Profile%20views&color=0e75b6&style=flat" alt="codewithritikcoder" /> </p>
 
