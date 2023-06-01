@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **CodeWithRitikCoder@gamil.com**
 
-- 📄 Know about my experiences [My Resumes](My Resumes)
+- 📄 Know about my experiences [My Resumes] - (<a href="https://drive.google.com/file/d/1l52uSAxMy5yc5oUGfKag3hqXIOk2w2VM/view?usp=sharing">My Resume</a>)
 
 - ⚡ Fun fact **I think 🤔 I am Funny 😊**
 
