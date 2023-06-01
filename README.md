@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithritikcoder&label=Profile%20views&color=0e75b6&style=flat" alt="codewithritikcoder" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/home" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/home?logo=twitter&style=for-the-badge" alt="https://twitter.com/home" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://twitter.com/home" target="blank"><img src="[https://img.shields.io/twitter/follow/https://twitter.com/home?logo=twitter&style=for-the-badge](https://img.shields.io/twitter/url?style=social)" alt="https://twitter.com/home" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [All of my projects are available on Github](All of my projects are available on Github)
 
