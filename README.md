@@ -1,4 +1,4 @@
-![image](Programme-your-career-banner-august2017-1920x750.png)
+![image](https://github.com/CodeWithRitikCoder/CodeWithRitikCoder/blob/main/banner1.png)
 <h1 align="center">Hi 👋, I'm Ritik verma</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
