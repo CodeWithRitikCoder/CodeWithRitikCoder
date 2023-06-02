@@ -96,7 +96,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=CodeWithRitikCoder&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<!-- <img src="https://rm.up.railway.app/" width="512px"/> -->
+<p>🎞️ ✨ 🎇 ♂️ 🤴 🙋‍ ✨ 🎞️ <b><i>----> Meme will come soon 🔜 </b></i></p>
 <!-- <hr> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithritikcoder&label=Profile%20views&color=0e75b6&style=flat" alt="codewithritikcoder" /> </p> -->
 
