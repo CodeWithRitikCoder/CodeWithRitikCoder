@@ -119,8 +119,8 @@
     </details>
 <hr>
     <div style="border: 5px solid white;"></div>
-    <img align="left" alt="coding" width="500" height="100" src="https://cdn-images-1.medium.com/max/1200/0*D4c3Wot2boeghGqI.gif">
-    <img align="right" alt="coding" width="500" height="100" src="https://media.tenor.com/images/7c37724f05ed6d2272d1eaa00d0b06a9/tenor.gif">
+    <img align="left" alt="coding" width="300" height="100" src="https://cdn-images-1.medium.com/max/1200/0*D4c3Wot2boeghGqI.gif">
+    <img align="right" alt="coding" width="300" height="100" src="https://media.tenor.com/images/7c37724f05ed6d2272d1eaa00d0b06a9/tenor.gif">
     
     
     
