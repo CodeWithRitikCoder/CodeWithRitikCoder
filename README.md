@@ -123,5 +123,11 @@
     <br><br><br><br><br>
     <img align="left" alt="coding" width="150" margint-Left src="https://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif">
     <img align="right" alt="coding" width="150" margint-Left src="https://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif">
-    
+    <hr>
+    <h3>☑️ CAREER OBJECTIVE ☑️ </h3>
+    <h4> To obtain innovative and a challenging 
+         career in a growing organization which 
+         gives me an opportunity to utilize my skills 
+         and knowledge and provides me an 
+         opportunity for career growth. </h4>
     
