@@ -120,6 +120,7 @@
 <hr>
     <img align="left" alt="coding" width="400" height="100" src="https://cdn-images-1.medium.com/max/1200/0*D4c3Wot2boeghGqI.gif">
     <img align="right" alt="coding" width="400" height="100" src="https://media.tenor.com/images/7c37724f05ed6d2272d1eaa00d0b06a9/tenor.gif">
-    
+    <br><br><br><br><br>
+    <img align="center" alt="coding" width="150" margint-Left src="https://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif">
     
     
