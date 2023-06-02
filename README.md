@@ -97,8 +97,8 @@
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
-<hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithritikcoder&label=Profile%20views&color=0e75b6&style=flat" alt="codewithritikcoder" /> </p>
+<!-- <hr> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithritikcoder&label=Profile%20views&color=0e75b6&style=flat" alt="codewithritikcoder" /> </p> -->
 
 <hr>
 <details>
@@ -130,4 +130,6 @@
          gives me an opportunity to utilize my skills 
          and knowledge and provides me an 
          opportunity for career growth. </h4>
+         <br>
+         <hr>
     
