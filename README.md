@@ -116,4 +116,11 @@
     younger me had of building my own app, my own product And in order to do that, I'll be implmementing a few measures to streamline
     my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm
     putting in place now until the end of 2023. Don't wait up, because I'm coming.
+    </details>
 <hr>
+    <div style="border: 5px solid white;"></div>
+    <img align="left" alt="coding" width="500" height="100" src="https://cdn-images-1.medium.com/max/1200/0*D4c3Wot2boeghGqI.gif">
+    <img align="right" alt="coding" width="500" height="100" src="https://media.tenor.com/images/7c37724f05ed6d2272d1eaa00d0b06a9/tenor.gif">
+    
+    
+    
