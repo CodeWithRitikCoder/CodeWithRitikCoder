@@ -101,7 +101,21 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithritikcoder&label=Profile%20views&color=0e75b6&style=flat" alt="codewithritikcoder" /> </p> -->
 
 <hr>
-<details>
+    <img align="left" alt="coding" width="400" height="100" src="https://cdn-images-1.medium.com/max/1200/0*D4c3Wot2boeghGqI.gif">
+    <img align="right" alt="coding" width="400" height="100" src="https://media.tenor.com/images/7c37724f05ed6d2272d1eaa00d0b06a9/tenor.gif">
+    <br><br><br><br><br>
+    <img align="left" alt="coding" width="150" margint-Left src="https://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif">
+    <img align="right" alt="coding" width="150" margint-Left src="https://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif">
+    <hr>
+    <h3>☑️ CAREER OBJECTIVE ☑️ </h3>
+    <h4> To obtain innovative and a challenging 
+         career in a growing organization which 
+         gives me an opportunity to utilize my skills 
+         and knowledge and provides me an 
+         opportunity for career growth. </h4>
+<!--          <br> -->
+         <hr>
+         <details>
     <summary><h3>🙅‍♂️🙅 Forrest's Coding Journey </h3> </summary>
     <h2>--Coding Journey--</h2>
     I started my coding joumey as a naive computer science student with a passion to learn everything I could about this programming
@@ -118,18 +132,4 @@
     putting in place now until the end of 2023. Don't wait up, because I'm coming.
     </details>
 <hr>
-    <img align="left" alt="coding" width="400" height="100" src="https://cdn-images-1.medium.com/max/1200/0*D4c3Wot2boeghGqI.gif">
-    <img align="right" alt="coding" width="400" height="100" src="https://media.tenor.com/images/7c37724f05ed6d2272d1eaa00d0b06a9/tenor.gif">
-    <br><br><br><br><br>
-    <img align="left" alt="coding" width="150" margint-Left src="https://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif">
-    <img align="right" alt="coding" width="150" margint-Left src="https://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif">
-    <hr>
-    <h3>☑️ CAREER OBJECTIVE ☑️ </h3>
-    <h4> To obtain innovative and a challenging 
-         career in a growing organization which 
-         gives me an opportunity to utilize my skills 
-         and knowledge and provides me an 
-         opportunity for career growth. </h4>
-<!--          <br> -->
-         <hr>
     
