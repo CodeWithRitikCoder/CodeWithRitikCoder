@@ -81,6 +81,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithRitikCoder&theme=blue-green&hide_border=false" alt="codewithritikcoder" /></p>
 <hr>
 
+<!-- Start -->
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saumya1singh" alt="saumya1singh" /></a> </p>
+<hr>
+<p align="left"> <a href="https://twitter.com/CodeWithRitik" target="blank"><img src="https://img.shields.io/twitter/follow/CodeWithRitik?logo=twitter&style=for-the-badge" alt="RitikCoder's Twitter" /></a> </p>
+<!-- end -->
+
 <br>
 ## 🏆 GitHub Trophies
 <!-- ![](https://github-profile-trophy.vercel.app/?username=CodeWithRitikCoder&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4) -->
