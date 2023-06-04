@@ -83,7 +83,8 @@
 
 <!-- Start -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saumya1singh" alt="saumya1singh" /></a> </p>
+<p align="left"> <a href="https://github.com/CodeWithRitikCoder"><img src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png" alt="RitikCoder" /></a> </p>
+<p align="left"> <a href="https://github.com/CodeWithRitikCoder"><img src="https://github-profile-trophy.vercel.app/?username=codewithritikcoder" alt="RitikCoder" /></a> </p>
 <hr>
 <p align="left"> <a href="https://twitter.com/CodeWithRitik" target="blank"><img src="https://img.shields.io/twitter/follow/CodeWithRitik?logo=twitter&style=for-the-badge" alt="RitikCoder's Twitter" /></a> </p>
 <!-- end -->
